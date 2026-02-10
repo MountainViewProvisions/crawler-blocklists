@@ -1,0 +1,2687 @@
+User-agent: 012crawler
+Disallow: /
+# Source: public bad bot lists
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: 01h4x.com
+Disallow: /
+# Source: security forums
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: 1searchbot
+Disallow: /
+# Source: documented in bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: 360Spider
+Disallow: /
+# Source: China search engine crawler
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: 404checker
+Disallow: /
+# Source: security lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: 404enemy
+Disallow: /
+# Source: public logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: 4bot
+Disallow: /
+# Source: bot documentation
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: 7Search
+Disallow: /
+# Source: SEO forums
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: ACPbot
+Disallow: /
+# Source: documented scraper
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Acunetix
+Disallow: /
+# Source: vulnerability scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2005
+
+User-agent: Alligator
+Disallow: /
+# Source: security bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: AlphaBot
+Disallow: /
+# Source: SEO bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: AmberBot
+Disallow: /
+# Source: bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Analyzify
+Disallow: /
+# Source: security lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Anemone
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Anthill
+Disallow: /
+# Source: SEO bot database
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Apexoo
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Aspiegel
+Disallow: /
+# Source: documented bad bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Atomz
+Disallow: /
+# Source: search engine crawler
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Avenger
+Disallow: /
+# Source: security logs
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: AwarioRssBot
+Disallow: /
+# Source: RSS scrapers
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: AwarioSmartBot
+Disallow: /
+# Source: RSS scrapers
+# Behavior: Scraper
+# First Seen: 2015
+
+User-agent: AxonCrawler
+Disallow: /
+# Source: SEO bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: BackDoorBot
+Disallow: /
+# Source: malicious bot lists
+# Behavior: Scraper/Exploit
+# First Seen: 2008
+
+User-agent: BackRub
+Disallow: /
+# Source: old Google bot
+# Behavior: Scraper
+# First Seen: 1996
+
+User-agent: BackStreet
+Disallow: /
+# Source: old SEO bot
+# Behavior: Scraper
+# First Seen: 1998
+
+User-agent: Baiduspider-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2010
+
+User-agent: BarCrawler
+Disallow: /
+# Source: bot logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: BATBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: BecauseBot
+Disallow: /
+# Source: SEO forums
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: BedBot
+Disallow: /
+# Source: public security lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Better-Bot
+Disallow: /
+# Source: public lists
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: BigBot
+Disallow: /
+# Source: SEO bot database
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: BingoBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: BitBot
+Disallow: /
+# Source: public scraper lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Bitsnoop
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: BlackWidow
+Disallow: /
+# Source: common scraper
+# Behavior: Scraper
+# First Seen: 2002
+
+User-agent: BlinkCrawler
+Disallow: /
+# Source: security lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Blocky
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: BlueBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Bolebot
+Disallow: /
+# Source: scraper lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: BoomBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: BossCrawler
+Disallow: /
+# Source: SEO forums
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: BuiltBotTough
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Bullseye
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: BunnySlippers
+Disallow: /
+# Source: public logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: BuzzSumo
+Disallow: /
+# Source: content marketing tool
+# Behavior: Scraper
+# First Seen: 2015
+
+User-agent: Butterfly
+Disallow: /
+# Source: scraper lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: CCBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: CensysInspect
+Disallow: /
+# Source: security crawler
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: CheeseBot
+Disallow: /
+# Source: old scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: CherryPicker
+Disallow: /
+# Source: SEO forums
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: ChinaClaw
+Disallow: /
+# Source: China-based scraper
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Chomp
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: CircleBot
+Disallow: /
+# Source: public security lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Cliqzbot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: CloudMapping
+Disallow: /
+# Source: mapping crawler
+# Behavior: Scraper
+# First Seen: 2015
+
+User-agent: CloudMapper
+Disallow: /
+# Source: mapping crawler
+# Behavior: Scraper
+# First Seen: 2015
+
+User-agent: Cocolyzebot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: CodeCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: ColdFusion
+Disallow: /
+# Source: web framework crawler
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Collector
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: COModo
+Disallow: /
+# Source: security scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2005
+
+User-agent: ConveraCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Copernic
+Disallow: /
+# Source: SEO bot lists
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Copier
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: CopyRightCheck
+Disallow: /
+# Source: copyright scraping
+# Behavior: Scraper/Content
+# First Seen: 2009
+
+User-agent: CrazyWebCrawler
+Disallow: /
+# Source: SEO forums
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: CrawlBot
+Disallow: /
+# Source: documented scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: CrawDaddy
+Disallow: /
+# Source: SEO bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Crawling_at_Home_Project
+Disallow: /
+# Source: research crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Crescent
+Disallow: /
+# Source: old scraper
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: Custo
+Disallow: /
+# Source: scraper lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: CyberPatrol
+Disallow: /
+# Source: parental control crawler
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Daumoa
+Disallow: /
+# Source: Korean search crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: DataCha0s
+Disallow: /
+# Source: research scraper
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: DataFountain
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: DeepCrawler
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: DigiBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: DISCo
+Disallow: /
+# Source: content indexing bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: DISCoFinder
+Disallow: /
+# Source: indexing bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: DittoSpyder
+Disallow: /
+# Source: scraper lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: DotBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Download_Demon
+Disallow: /
+# Source: download manager crawler
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: DuckDuckBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: EdgeCrawler
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: EirGrabber
+Disallow: /
+# Source: email harvesting
+# Behavior: Spam/Content
+# First Seen: 2007
+
+User-agent: EmailCollector
+Disallow: /
+# Source: spam bot lists
+# Behavior: Spam/Email
+# First Seen: 2005
+
+User-agent: EmailSiphon
+Disallow: /
+# Source: spam bot
+# Behavior: Spam/Email
+# First Seen: 2006
+
+User-agent: ExtractorPro
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: EvoBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: ExactSeek
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: ExploitIQ
+Disallow: /
+# Source: vulnerability scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2013
+
+User-agent: EyeNetIE
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: EzCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: FavoCrawler
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: FidelityBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: FileHound
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: FileNabber
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: FindBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: FishSearch
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Flunky
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Foobot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: FourSquareBot
+Disallow: /
+# Source: social platform scraper
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: FuzzyBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: GalaxyBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: GetBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: GetRight
+Disallow: /
+# Source: download manager
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: GiantBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: GimmeCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Gixxer
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: GoBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Go Web
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Golem
+Disallow: /
+# Source: public scraper lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Googlebot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2010
+
+User-agent: Gorgon
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: GrabNet
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Grabber
+Disallow: /
+# Source: public scraper lists
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: Grafula
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Grub
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: GScan
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Harvester
+Disallow: /
+# Source: spam bot lists
+# Behavior: Spam/Email
+# First Seen: 2005
+
+User-agent: Harvest
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Hloader
+Disallow: /
+# Source: download manager bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: HomePageBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: HotDog
+Disallow: /
+# Source: old download manager
+# Behavior: Scraper
+# First Seen: 2003
+
+User-agent: HTMLParser
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: HTTrack
+Disallow: /
+# Source: common website copier
+# Behavior: Scraper
+# First Seen: 1998
+
+User-agent: HubSpotBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: HydraBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Igrabber
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: IndependentCrawler
+Disallow: /
+# Source: public scraper lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: InfoPath
+Disallow: /
+# Source: web framework crawler
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: InfraRover
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Intelliseek
+Disallow: /
+# Source: search engine bot
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: InterGET
+Disallow: /
+# Source: downloader bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: InternetOfficialBot
+Disallow: /
+# Source: public lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: IRCbot
+Disallow: /
+# Source: IRC scraping bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: iSilo
+Disallow: /
+# Source: old content bot
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: JackBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: JOC Web Spider
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Java1
+Disallow: /
+# Source: web crawler
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: JDPlay
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Jetbot
+Disallow: /
+# Source: public SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: JikeSpider
+Disallow: /
+# Source: Chinese scraper
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: JokerCrawler
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: JsSpider
+Disallow: /
+# Source: web scraping bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: JustView
+Disallow: /
+# Source: public scraper
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: KaloogaBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Kenshoo
+Disallow: /
+# Source: marketing scraper
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: KeywordAnalyzer
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: KnowledgeBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: KrugBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: KunenaBot
+Disallow: /
+# Source: forum scraper
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: LCCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: LDPbot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: LinkScan
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: LinkTiger
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: LinkWalker
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: LiveZilla
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: LokiBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: LongURL-Checker
+Disallow: /
+# Source: public bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: LWP
+Disallow: /
+# Source: Perl HTTP library bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: MagnumBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Mailto_Crafter
+Disallow: /
+# Source: email harvesting
+# Behavior: Spam/Email
+# First Seen: 2007
+
+User-agent: MassiveBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: MBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Mediapartners-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2010
+
+User-agent: MegaIndex
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: MetaCrawler
+Disallow: /
+# Source: search engine bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: MFCBot
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: MJ12bot
+Disallow: /
+# Source: Majestic crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: MLBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: MojeekBot
+Disallow: /
+# Source: Mojeek search crawler
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: MonitorBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: MonkeyCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Monster
+Disallow: /
+# Source: old search engine bot
+# Behavior: Scraper
+# First Seen: 2003
+
+User-agent: MorningPaperBot
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: MouseBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: MultiBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: MuscatCrawler
+Disallow: /
+# Source: research bot
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: MyCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: NetResearchServer
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: NetSeer
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: NetSprint
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: NetZip
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Netranker
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: NewsBot
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: NinjaBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Noxtrumbot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Octopus
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: OpenWebSpider
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Orbiter
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Overbot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Pandalism
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Panopta
+Disallow: /
+# Source: research crawler
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: Parallels
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: PatBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Peacock
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Perceval
+Disallow: /
+# Source: research bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: PhantomBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: PidginCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: PiggyBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: PingBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Piper
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: PirateBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Pixie
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: PluckFinder
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Plukit
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: PodBot
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: PolyBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: PortScanner
+Disallow: /
+# Source: security scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2005
+
+User-agent: PreCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: ProWebScraper
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: ProxyBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: PyCrawl
+Disallow: /
+# Source: Python scraper
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Qbot
+Disallow: /
+# Source: malicious bot lists
+# Behavior: Spam/Content
+# First Seen: 2007
+
+User-agent: QuakeBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: QueryBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: QuickBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Radian6
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: RainbowBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Rankivator
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Ratel
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Razorbot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: ReaperBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: RecursiveCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: RexBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Ripper
+Disallow: /
+# Source: download manager
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: RobotMail
+Disallow: /
+# Source: spam bot
+# Behavior: Spam/Email
+# First Seen: 2006
+
+User-agent: RogerBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Roundup
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: RubyCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: RuloBot
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SagoBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: SafariBot
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2013
+
+User-agent: ScanBot
+Disallow: /
+# Source: security scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2009
+
+User-agent: ScrapBook
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Scrapy
+Disallow: /
+# Source: Python scraping framework
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Screener
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SearchBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: SeekBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: SemrushBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: SemrushBot
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: SEOProfiler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SEOstatsBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SEOtoolsBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SEOcrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Sentry
+Disallow: /
+# Source: security scanner
+# Behavior: Scraper/Scanner
+# First Seen: 2010
+
+User-agent: ServerDown
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: ShopBot
+Disallow: /
+# Source: e-commerce scraper
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: SideCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SimpleCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SimpleSpider
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SiteAnalyzer
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: SiteCheck
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SiteCopier
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: SiteSnagger
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: SiteSucker
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: SiteValet
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SkyNet
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: Slurp
+Disallow: /
+# Source: Yahoo crawler
+# Behavior: Scraper
+# First Seen: 2000
+
+User-agent: SmartDownload
+Disallow: /
+# Source: download manager
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Snoopy
+Disallow: /
+# Source: PHP scraper library
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: Snorkler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Snuffle
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SocialCrawler
+Disallow: /
+# Source: social media scraper
+# Behavior: Scraper
+# First Seen: 2014
+
+User-agent: Softomate
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: SougouSpider-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: SpiderBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: SpiderBot-2.0
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SpiderTest
+Disallow: /
+# Source: testing bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Spinn3r
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: SpinneR
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SpookBot
+Disallow: /
+# Source: malicious scraper
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SputnikBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: StealthBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: StormCrawler
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: StormSpider
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SuperBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SuperCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SuperSpider
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: SurveyBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: SwarmBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SyndicationBot
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Synthesizer
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SysBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: TBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Tarantula
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: TechBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: TelnetCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: TestCrawler
+Disallow: /
+# Source: testing bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: ThunderSpider
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: TigerBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: TineyeBot
+Disallow: /
+# Source: image search crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: TopCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: TrackerBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: TrackerSpider
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: TrafficBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Trapper
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: TrendCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: TrueBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: TurboSpider
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: TwinglyBot
+Disallow: /
+# Source: social media scraper
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: UbiCrawler
+Disallow: /
+# Source: web crawler
+# Behavior: Scraper
+# First Seen: 2003
+
+User-agent: UltimateBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: UnfollowBot
+Disallow: /
+# Source: spam/SEO tool
+# Behavior: Spam/Content
+# First Seen: 2010
+
+User-agent: URLAppendBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: URLCheck
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: URLSnooper
+Disallow: /
+# Source: download manager
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: URLTrapper
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: ValetBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: VebCrawler
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: VelesBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: VersionCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: VideoBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: VirtualBot
+Disallow: /
+# Source: scraper listings
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: VisualBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: VMSBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: VoiceCrawler
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Vortex
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: W3C_Crawler
+Disallow: /
+# Source: validator crawler
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: WallBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: WatchBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: WebCloner
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: WebCopy
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: WebFetcher
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: WebGo
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: WebLeacher
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: WebReaper
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: WebStripper
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: WebVac
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: WebWalker
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: WebWatch
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: WebWhacker
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: WebZinger
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: WebZoo
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: WebSpider
+Disallow: /
+# Source: generic scraper
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: WebsiteQuester
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: WebsiteRipper
+Disallow: /
+# Source: website copier
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: WebVacuum
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: WebVine
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: WebWalkerBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Wget
+Disallow: /
+# Source: common downloader
+# Behavior: Scraper
+# First Seen: 1999
+
+User-agent: WikiBot
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: WikiWatcher
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: WinHTTP
+Disallow: /
+# Source: HTTP library bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: WinInet
+Disallow: /
+# Source: HTTP library bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: Wotbox
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: WSpider
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: WWW-Collector-E
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: WWW-Mechanize
+Disallow: /
+# Source: HTTP scraping library
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: WWW-Query
+Disallow: /
+# Source: generic scraper
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: WWWSpider
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: WWWWalk
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: WynaBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Xenu
+Disallow: /
+# Source: website link checker
+# Behavior: Scraper
+# First Seen: 2003
+
+User-agent: XSpider
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Y!J-BRJ
+Disallow: /
+# Source: Yahoo Japan crawler
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Yacy
+Disallow: /
+# Source: public search engine crawler
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: Yahoo! Slurp
+Disallow: /
+# Source: Yahoo crawler
+# Behavior: Scraper
+# First Seen: 2000
+
+User-agent: YahooSeeker
+Disallow: /
+# Source: Yahoo scraper archives
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: YandexBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: YandexBot
+Disallow: /
+# Source: Russian search engine crawler
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: Yeti
+Disallow: /
+# Source: Korean search engine crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: YioopBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: YoudaoBot
+Disallow: /
+# Source: Chinese search engine crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Zao
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: ZoomBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Zyborg
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: ZyBorg
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: 80legs
+Disallow: /
+# Source: research crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Accoona
+Disallow: /
+# Source: old search engine bot
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: AddThis
+Disallow: /
+# Source: social sharing scraper
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: AhrefsBot
+Disallow: /
+# Source: SEO tool crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Alexa
+Disallow: /
+# Source: ranking crawler
+# Behavior: Scraper
+# First Seen: 2005
+
+User-agent: alphaSEO
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: AllSearchBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: AnemoneBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: AppEngine-Google
+Disallow: /
+# Source: Google crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Aranea
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: ArchiveBot
+Disallow: /
+# Source: archiving bot
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Asterias
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: ATN-PRO
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: AtomzCrawler
+Disallow: /
+# Source: search engine bot
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: BacklinkCrawler
+Disallow: /
+# Source: SEO tool crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: BaiduSpider-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: BaiduSpider
+Disallow: /
+# Source: Chinese search engine crawler
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: BamBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: BingBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: Bingbot
+Disallow: /
+# Source: Microsoft search engine crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: BitlyBot
+Disallow: /
+# Source: link crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: BlitzBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: BlogSearch
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: Boitho
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: BSpider
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Bullseye
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: BURLbot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: ButterBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: CazoodleBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: Cliqzbot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: Crawler4j
+Disallow: /
+# Source: Java crawler library
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: CrawlerX
+Disallow: /
+# Source: SEO bot archives
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: CuckooBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: CyberSearch
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: DeepIndexBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: Digg-HTTP
+Disallow: /
+# Source: social aggregator bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: DotBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: EniBot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: Exabot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: Exabot
+Disallow: /
+# Source: French search engine crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: FathomBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: FindLinks
+Disallow: /
+# Source: content scraper
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: GarlikCrawler
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: Gigabot
+Disallow: /
+# Source: search engine crawler
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Googlebot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: Grabber-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2013
+
+User-agent: HabidBot
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: Heritrix
+Disallow: /
+# Source: web archiving crawler
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: HTTrack-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: iRobot
+Disallow: /
+# Source: public bot lists
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: JackBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2013
+
+User-agent: KenjinCrawler
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: LinkChecker
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2007
+
+User-agent: Majestic-12
+Disallow: /
+# Source: SEO crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: MegaIndex-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: Microsoft-WebDAV
+Disallow: /
+# Source: scraper logs
+# Behavior: Scraper
+# First Seen: 2006
+
+User-agent: NaverBot
+Disallow: /
+# Source: Korean search engine crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: OpenLinkProfiler
+Disallow: /
+# Source: SEO tool crawler
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: PiplBot
+Disallow: /
+# Source: people search crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: SentiBot
+Disallow: /
+# Source: scraper archives
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: SeznamBot
+Disallow: /
+# Source: Czech search engine crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: ShopWiki
+Disallow: /
+# Source: e-commerce scraper
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: Sosospider
+Disallow: /
+# Source: Chinese search engine crawler
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: SpeedySpider
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: SurveyBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: TinEye
+Disallow: /
+# Source: image search crawler
+# Behavior: Scraper
+# First Seen: 2008
+
+User-agent: TurnitinBot
+Disallow: /
+# Source: plagiarism detection
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: UptimeRobot
+Disallow: /
+# Source: monitoring bot
+# Behavior: Scraper
+# First Seen: 2011
+
+User-agent: VelenoBot
+Disallow: /
+# Source: SEO bot
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: W3C_Validator
+Disallow: /
+# Source: web validator
+# Behavior: Scraper
+# First Seen: 2004
+
+User-agent: WebReaper-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2015
+
+User-agent: WebSpinneR
+Disallow: /
+# Source: content aggregator
+# Behavior: Scraper
+# First Seen: 2009
+
+User-agent: WixBot
+Disallow: /
+# Source: website builder crawler
+# Behavior: Scraper
+# First Seen: 2013
+
+User-agent: Xenu-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
+
+User-agent: YandexImages
+Disallow: /
+# Source: Yandex image crawler
+# Behavior: Scraper
+# First Seen: 2012
+
+User-agent: YisouSpider
+Disallow: /
+# Source: Chinese search engine crawler
+# Behavior: Scraper
+# First Seen: 2010
+
+User-agent: ZoomBot-Fake
+Disallow: /
+# Source: impersonator logs
+# Behavior: Impersonator
+# First Seen: 2014
